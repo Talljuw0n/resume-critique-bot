@@ -1,4 +1,3 @@
-This is the Resume Critique Bot
 
 #  AI Resume Critique Bot
 
