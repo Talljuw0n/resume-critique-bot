@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for resume-critique-bot on 2026-02-12T11:34:56Z
+# fly.toml app configuration file generated for resume-critique-bot on 2026-02-12T12:06:50Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -18,7 +18,7 @@ primary_region = 'ams'
   auto_stop_machines = 'stop'
   auto_start_machines = true
   min_machines_running = 0
-  processes = ['web']
+  processes = ['app']
 
 [[vm]]
   memory = '1gb'
