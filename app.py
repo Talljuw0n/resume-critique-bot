@@ -107,7 +107,7 @@ Format the feedback clearly under separate headings.
                             "content": user_message
                         }
                     ],
-                    "model": "llama3-8b-8192"
+                    "model": "llama-3.3-70b-versatile"
                 }
 
                 response = requests.post(
